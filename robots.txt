@@ -1,0 +1,4 @@
+User-agent: *
+Allow:
+
+Sitemap: http://agen-baccarat.jmarchini.org/sitemap.xml
